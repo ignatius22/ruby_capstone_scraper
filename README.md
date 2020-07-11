@@ -5,8 +5,6 @@
 - Position of the job
 - Location of the job
 - Company 
-- Volume
-
 
 
 
