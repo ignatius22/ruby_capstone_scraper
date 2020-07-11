@@ -5,7 +5,8 @@
 - Position of the job
 - Location of the job
 - Company 
-
+![](assets/screenshot1.png)
+![](assets/screenshot2.png)
 
 
 ### Built With
