@@ -12,9 +12,9 @@ arr = page.details
 def display_details(details)
   count = 1
   details.each do |val|
-    puts '__________________________________________________________________________________________________________'
+    puts '________________________________________________________________________________'
  
-		puts "#{count})details
+		puts "#{count})job's details
 
 					position:
 					#{val[:position]} 
