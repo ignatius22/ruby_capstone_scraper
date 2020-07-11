@@ -9,12 +9,12 @@
 - Circulating supply
 - Change(%)
 
-![Screenshot from 2020-06-03 00-38-56](https://user-images.githubusercontent.com/57847212/83581361-7e0fc080-a536-11ea-8cfb-53604657d0c8.png)
- 
+
+
 ### Built With
 - Ruby
 - Nokogiri gem
-- Open-uri gem
+
 
 ### Prerequisites
 
