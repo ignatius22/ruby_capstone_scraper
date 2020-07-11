@@ -1,5 +1,5 @@
-gem 'rubocop'
-gem 'nokogiri'
-gem 'httparty'
 gem 'byebug'
+gem 'httparty'
+gem 'nokogiri'
 gem 'pry'
+gem 'rubocop'

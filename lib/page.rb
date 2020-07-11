@@ -7,11 +7,11 @@ class Page
   def details
     details_arr = []
     pages.each do |node|
-			details_hash = { 
-				 position: node.css('div.position').text,
+      details_hash = {
+        position: node.css('div.position').text,
         company: node.css('div.company').text,
-				location: node.css('span.location').text
-				}
+        location: node.css('span.location').text
+      }
       details_arr << details_hash
     end
     details_arr
