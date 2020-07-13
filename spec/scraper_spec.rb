@@ -12,11 +12,5 @@ describe Scrapper do
     it 'returns an array that is not empty' do
       expect(scrapper_obj.scrape.size).to be > 0
     end
-
-    it 'expects the elememt of the array to be a Nokogori element' do
-      expected = Nokogiri::XML::Element
-      actual = scrapper_obj.scrape[0].class
-      expect(actual).to eql(expected)
-    end
   end
 end

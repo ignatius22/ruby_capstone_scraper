@@ -24,6 +24,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Clone or download this repository to your local workstation.
 - enter the directory of the cloned project
+- bundle install all gems
 - run bin/controller.rb to execute the scrapper script and print out the data retrieved to the console.
 
 ### Testing
