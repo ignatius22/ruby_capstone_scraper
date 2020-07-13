@@ -1,5 +1,5 @@
 ## Webscrapper Built With Ruby
-> This is a simple web scrapper that   basically crawls a website and retrives  specific data from the site. 
+> This is a simple web scrapper that basically crawls a website and retrives  specific data from the site.
 
 #### For this particular project, we will be scrapping https://remotive.io/ which is a website that provides information on different remote jobs and we will be retrieving the following data:
 - Position of the job
