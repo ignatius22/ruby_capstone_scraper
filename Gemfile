@@ -2,4 +2,4 @@ gem 'byebug'
 gem 'httparty'
 gem 'nokogiri'
 gem 'pry'
-gem 'rubocop'
+gem 'rubocop', require: false

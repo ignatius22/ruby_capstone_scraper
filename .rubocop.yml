@@ -1,13 +1,13 @@
 AllCops:
   Exclude:
-    - "README.md"
-    - "Guardfile"
-    - "Rakefile"
+    - 'README.md'
+    - 'Guardfile'
+    - 'Rakefile'
 
   DisplayCopNames: true
 
 Layout/LineLength:
-  Max: 200
+  Max: 120
 Metrics/MethodLength:
   Max: 20
 Metrics/AbcSize:
@@ -17,7 +17,6 @@ Metrics/ClassLength:
 Metrics/BlockLength:
   ExcludedMethods: ['describe']
   Max: 30
-
 
 Style/Documentation:
   Enabled: false
@@ -40,9 +39,9 @@ Layout/MultilineMethodCallIndentation:
   Enabled: true
   EnforcedStyle: indented
 # Lint/RaiseException:
-#   Enabled: false
+#   Disabled: true
 # Lint/StructNewOverride:
-#   Enabled: false
+#   Disabled: true
 Style/HashEachMethods:
   Enabled: false
 Style/HashTransformKeys:
